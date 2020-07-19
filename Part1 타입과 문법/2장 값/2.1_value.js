@@ -21,3 +21,14 @@ var f = e;
 e[0] = 7;
 console.log(e);
 console.log(f);
+
+
+//배열
+var g = [1,2,3];
+console.log(g);
+
+//유사배열
+var h = "1,2,3"; //String
+
+var i = {"a":1,"b":2,"c":3} //Object
+
