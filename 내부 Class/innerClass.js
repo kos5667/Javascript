@@ -32,3 +32,5 @@ console.log(Object.prototype.toString.call(42));
 
 //[object Boolean]
 console.log(Object.prototype.toString.call(true));
+
+ //test
